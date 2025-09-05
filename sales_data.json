@@ -1,0 +1,2678 @@
+{
+    "result": [
+        {
+            "unitId": "000d3a21da51a81211e9455df8e74cb2",
+            "sales": 407074.0,
+            "ordersCount": 585,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 62674.0,
+                    "ordersCount": 113
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 132110.0,
+                    "ordersCount": 84
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 176713.0,
+                    "ordersCount": 363
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 13517.0,
+                    "ordersCount": 19
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 20364.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 258.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1438.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a21da51a81211ea1a7159572530",
+            "sales": 388977.0,
+            "ordersCount": 429,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 72514.0,
+                    "ordersCount": 145
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 170676.0,
+                    "ordersCount": 88
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 96780.0,
+                    "ordersCount": 175
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3031.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 45787.0,
+                    "ordersCount": 14
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 189.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a22fa54a81411e9455dc8ed253b",
+            "sales": 267285.0,
+            "ordersCount": 277,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 40778.0,
+                    "ordersCount": 76
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 153096.0,
+                    "ordersCount": 108
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 31110.0,
+                    "ordersCount": 41
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 6426.0,
+                    "ordersCount": 17
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 17488.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 9394.0,
+                    "ordersCount": 13
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 8993.0,
+                    "ordersCount": 12
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a23b0dc80de11e7af64c5232229",
+            "sales": 250995.0,
+            "ordersCount": 252,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 160167.0,
+                    "ordersCount": 114
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 25172.0,
+                    "ordersCount": 46
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 45473.0,
+                    "ordersCount": 64
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2538.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 13149.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 775.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1139.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1275.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1307.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a23b0dc80de11e7c612f8a1bd33",
+            "sales": 306478.0,
+            "ordersCount": 278,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 47981.0,
+                    "ordersCount": 55
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 202895.0,
+                    "ordersCount": 153
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 26495.0,
+                    "ordersCount": 44
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 89.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 2049.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 22313.0,
+                    "ordersCount": 13
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2472.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 888.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1296.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a23b0dc80de11e7c6133a6d1347",
+            "sales": 284133.0,
+            "ordersCount": 287,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 37126.0,
+                    "ordersCount": 63
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 190016.0,
+                    "ordersCount": 139
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 18084.0,
+                    "ordersCount": 41
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3474.0,
+                    "ordersCount": 9
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 12029.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 19479.0,
+                    "ordersCount": 26
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 2266.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1659.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a23b0dc80de11e7c83e601e087f",
+            "sales": 284327.0,
+            "ordersCount": 278,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 28631.0,
+                    "ordersCount": 59
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 42788.0,
+                    "ordersCount": 65
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 4564.0,
+                    "ordersCount": 17
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 182241.0,
+                    "ordersCount": 113
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 19787.0,
+                    "ordersCount": 9
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 4240.0,
+                    "ordersCount": 12
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2076.0,
+                    "ordersCount": 3
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a2480c380e711e74c307a5824fb",
+            "sales": 204227.0,
+            "ordersCount": 216,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 139950.0,
+                    "ordersCount": 99
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 16520.0,
+                    "ordersCount": 38
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 27237.0,
+                    "ordersCount": 40
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3388.0,
+                    "ordersCount": 11
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 8173.0,
+                    "ordersCount": 21
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 6903.0,
+                    "ordersCount": 4
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2056.0,
+                    "ordersCount": 3
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a24d2b7a94311e8706b7529ebfd",
+            "sales": 309536.0,
+            "ordersCount": 338,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 6543.0,
+                    "ordersCount": 29
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 199953.0,
+                    "ordersCount": 139
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 36633.0,
+                    "ordersCount": 70
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 37669.0,
+                    "ordersCount": 72
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 19333.0,
+                    "ordersCount": 9
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3070.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 6335.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a26b5b080dd11e6eed25ce51c88",
+            "sales": 262310.0,
+            "ordersCount": 247,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 31407.0,
+                    "ordersCount": 66
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 168559.0,
+                    "ordersCount": 99
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 30364.0,
+                    "ordersCount": 48
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 23758.0,
+                    "ordersCount": 12
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 3635.0,
+                    "ordersCount": 16
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1435.0,
+                    "ordersCount": 4
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 458.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 2694.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a29ff6ba94311e8706d6210d0d4",
+            "sales": 359573.0,
+            "ordersCount": 331,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 50655.0,
+                    "ordersCount": 80
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 59510.0,
+                    "ordersCount": 102
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2764.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 196795.0,
+                    "ordersCount": 116
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1736.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 2272.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 34619.0,
+                    "ordersCount": 11
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 1546.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2716.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 6960.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a29ff6ba94311e87b656f33323b",
+            "sales": 237547.0,
+            "ordersCount": 206,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 22479.0,
+                    "ordersCount": 31
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 18465.0,
+                    "ordersCount": 49
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 178661.0,
+                    "ordersCount": 110
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1968.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3837.0,
+                    "ordersCount": 4
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 10153.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 356.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1628.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a39d824a82e11ea1a71e923e814",
+            "sales": 344790.0,
+            "ordersCount": 416,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 87559.0,
+                    "ordersCount": 128
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 7875.0,
+                    "ordersCount": 15
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 77693.0,
+                    "ordersCount": 157
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 153166.0,
+                    "ordersCount": 97
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 13107.0,
+                    "ordersCount": 9
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1242.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1046.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 1203.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1899.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "000d3aac9dcabb2e11ec1605d6cea2c0",
+            "sales": 148991.0,
+            "ordersCount": 204,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 32898.0,
+                    "ordersCount": 61
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 71698.0,
+                    "ordersCount": 53
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 30982.0,
+                    "ordersCount": 71
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2421.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 8479.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2513.0,
+                    "ordersCount": 7
+                }
+            ]
+        },
+        {
+            "unitId": "000d3aaf2133a81111ea4cb14763c340",
+            "sales": 129738.0,
+            "ordersCount": 220,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 48188.0,
+                    "ordersCount": 90
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 75253.0,
+                    "ordersCount": 119
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 5883.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 259.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 155.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "5e928e9d6e51929f11ee2f76c6618ca5",
+            "sales": 400808.0,
+            "ordersCount": 443,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 174650.0,
+                    "ordersCount": 79
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 81904.0,
+                    "ordersCount": 140
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 24368.0,
+                    "ordersCount": 11
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 110278.0,
+                    "ordersCount": 200
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 4425.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 679.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 1029.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 3475.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "6ad3bc2834a2bd2b11eee04df79cafc4",
+            "sales": 462969.0,
+            "ordersCount": 375,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 46138.0,
+                    "ordersCount": 71
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 93098.0,
+                    "ordersCount": 159
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 271025.0,
+                    "ordersCount": 115
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 2148.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 6841.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 33865.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 2039.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 7815.0,
+                    "ordersCount": 12
+                }
+            ]
+        },
+        {
+            "unitId": "6ae7164591c6a7ca11eda2ffc77b7e29",
+            "sales": 353561.0,
+            "ordersCount": 382,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 207705.0,
+                    "ordersCount": 146
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 63710.0,
+                    "ordersCount": 115
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 50860.0,
+                    "ordersCount": 85
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 13481.0,
+                    "ordersCount": 22
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 12778.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 1124.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1648.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 109.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1778.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 368.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "ba84192b59cea6b511ee66a144e0dec8",
+            "sales": 303908.0,
+            "ordersCount": 352,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 61424.0,
+                    "ordersCount": 101
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 74426.0,
+                    "ordersCount": 128
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 132302.0,
+                    "ordersCount": 94
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 7770.0,
+                    "ordersCount": 14
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 545.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 25457.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 827.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1157.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "baae0eb80244844011eef569d40693db",
+            "sales": 225596.0,
+            "ordersCount": 262,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 40049.0,
+                    "ordersCount": 73
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 47447.0,
+                    "ordersCount": 105
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 120614.0,
+                    "ordersCount": 64
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 348.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 8960.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 7779.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 399.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "eabe29c2a647bedb11ef22470103483b",
+            "sales": 218940.0,
+            "ordersCount": 257,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 507.0,
+                    "ordersCount": 4
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 6678.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 40466.0,
+                    "ordersCount": 80
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 126236.0,
+                    "ordersCount": 97
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 29707.0,
+                    "ordersCount": 54
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 14538.0,
+                    "ordersCount": 9
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 808.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a2155a180e811e7b01e2fc62983",
+            "sales": 379595.0,
+            "ordersCount": 384,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 63687.0,
+                    "ordersCount": 98
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 68989.0,
+                    "ordersCount": 114
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 206648.0,
+                    "ordersCount": 124
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 8451.0,
+                    "ordersCount": 23
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 23151.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 299.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2920.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3482.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1968.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a2155a180ea11e7c612ec7df00a",
+            "sales": 282218.0,
+            "ordersCount": 290,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 48695.0,
+                    "ordersCount": 77
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 74731.0,
+                    "ordersCount": 97
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 20697.0,
+                    "ordersCount": 9
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 4407.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 129421.0,
+                    "ordersCount": 91
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1057.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1675.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 159.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1267.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 109.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a22fa54a81611eb145b4f1e2feb",
+            "sales": 130995.0,
+            "ordersCount": 291,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 67838.0,
+                    "ordersCount": 140
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 52723.0,
+                    "ordersCount": 119
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 6997.0,
+                    "ordersCount": 24
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1668.0,
+                    "ordersCount": 4
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 602.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 1167.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a23b0dc80d811e68f98e099f565",
+            "sales": 304781.0,
+            "ordersCount": 293,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 153638.0,
+                    "ordersCount": 92
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 60708.0,
+                    "ordersCount": 79
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 58753.0,
+                    "ordersCount": 83
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 11785.0,
+                    "ordersCount": 22
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3768.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 12818.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1036.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 2275.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a23b0dc80dc11e75684d2cbcbcc",
+            "sales": 281254.0,
+            "ordersCount": 327,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 41579.0,
+                    "ordersCount": 85
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 10285.0,
+                    "ordersCount": 22
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 182720.0,
+                    "ordersCount": 148
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 36912.0,
+                    "ordersCount": 61
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 608.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1735.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 6337.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1078.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a240c719a8711e68aba13f83227",
+            "sales": 379005.0,
+            "ordersCount": 530,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 84270.0,
+                    "ordersCount": 183
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 215629.0,
+                    "ordersCount": 183
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 60880.0,
+                    "ordersCount": 133
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 7255.0,
+                    "ordersCount": 17
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 2424.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 3434.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 2737.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 2376.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a240c719a8711e68aba13f88a3d",
+            "sales": 337339.0,
+            "ordersCount": 333,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 38258.0,
+                    "ordersCount": 74
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 40121.0,
+                    "ordersCount": 55
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 223065.0,
+                    "ordersCount": 151
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 17486.0,
+                    "ordersCount": 12
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 13590.0,
+                    "ordersCount": 32
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2547.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2272.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a2480c380fd11e7b01e162d4980",
+            "sales": 210874.0,
+            "ordersCount": 221,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 25102.0,
+                    "ordersCount": 41
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 5415.0,
+                    "ordersCount": 11
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 39241.0,
+                    "ordersCount": 66
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 129231.0,
+                    "ordersCount": 91
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 9678.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 2207.0,
+                    "ordersCount": 6
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a2480c3811711e7c612de42c599",
+            "sales": 338792.0,
+            "ordersCount": 325,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 48525.0,
+                    "ordersCount": 62
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 51433.0,
+                    "ordersCount": 91
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 204401.0,
+                    "ordersCount": 133
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 3063.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 962.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 22453.0,
+                    "ordersCount": 15
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 6617.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1338.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a26b5b080ee11e7b01e24e17c51",
+            "sales": 220773.0,
+            "ordersCount": 249,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 124800.0,
+                    "ordersCount": 94
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 53423.0,
+                    "ordersCount": 88
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 28253.0,
+                    "ordersCount": 48
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 5926.0,
+                    "ordersCount": 13
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 6477.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1894.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a26b5b080ee11e7b01ec97e910b",
+            "sales": 358303.0,
+            "ordersCount": 348,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 8625.0,
+                    "ordersCount": 11
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 52225.0,
+                    "ordersCount": 96
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 51525.0,
+                    "ordersCount": 72
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 214450.0,
+                    "ordersCount": 150
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 29094.0,
+                    "ordersCount": 14
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1009.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 982.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 89.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 304.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a39d824a82e11e956dd87718b8d",
+            "sales": 265803.0,
+            "ordersCount": 311,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 48401.0,
+                    "ordersCount": 96
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 45756.0,
+                    "ordersCount": 81
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 4558.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 22927.0,
+                    "ordersCount": 12
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 139938.0,
+                    "ordersCount": 103
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 2265.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 369.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1589.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3a39d824a82e11e9d08104723b18",
+            "sales": 318283.0,
+            "ordersCount": 378,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 60058.0,
+                    "ordersCount": 108
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 44308.0,
+                    "ordersCount": 85
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 175508.0,
+                    "ordersCount": 139
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 4025.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 9081.0,
+                    "ordersCount": 16
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 15453.0,
+                    "ordersCount": 8
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 4909.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 4941.0,
+                    "ordersCount": 9
+                }
+            ]
+        },
+        {
+            "unitId": "000d3aac9dcabb2e11ec79d8ac0a89e3",
+            "sales": 337122.0,
+            "ordersCount": 589,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 120876.0,
+                    "ordersCount": 105
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 115586.0,
+                    "ordersCount": 256
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 88420.0,
+                    "ordersCount": 209
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 4977.0,
+                    "ordersCount": 13
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 6385.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 878.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3aaf2133a81211ea5ebe966c8252",
+            "sales": 304570.0,
+            "ordersCount": 339,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 143565.0,
+                    "ordersCount": 106
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 52630.0,
+                    "ordersCount": 79
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 75301.0,
+                    "ordersCount": 114
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 11220.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 16395.0,
+                    "ordersCount": 17
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 1082.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 3003.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 925.0,
+                    "ordersCount": 4
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 449.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "000d3abf84c3bb2e11ec2cca35bb89ae",
+            "sales": 359038.0,
+            "ordersCount": 484,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 89387.0,
+                    "ordersCount": 173
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 56603.0,
+                    "ordersCount": 121
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 2757.0,
+                    "ordersCount": 2
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 193456.0,
+                    "ordersCount": 168
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 10840.0,
+                    "ordersCount": 14
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 4159.0,
+                    "ordersCount": 3
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Card",
+                    "sales": 759.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1077.0,
+                    "ordersCount": 2
+                }
+            ]
+        },
+        {
+            "unitId": "11efe3a8b1f5ebb4eb8b4e7b594c7ad0",
+            "sales": 204759.0,
+            "ordersCount": 281,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 54090.0,
+                    "ordersCount": 100
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 48708.0,
+                    "ordersCount": 104
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 95248.0,
+                    "ordersCount": 70
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3879.0,
+                    "ordersCount": 4
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 188.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 2377.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 269.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "11eff5b4b8bf8b9b0f3178e0a62d9be0",
+            "sales": 227186.0,
+            "ordersCount": 217,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 43957.0,
+                    "ordersCount": 9
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 77390.0,
+                    "ordersCount": 47
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 41275.0,
+                    "ordersCount": 59
+                },
+                {
+                    "orderSource": "Dine-in",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1364.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 59158.0,
+                    "ordersCount": 88
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 3037.0,
+                    "ordersCount": 7
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 1005.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 5
+                }
+            ]
+        },
+        {
+            "unitId": "11f03baeb056316624fa303a00715120",
+            "sales": 281636.0,
+            "ordersCount": 438,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 53704.0,
+                    "ordersCount": 128
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 128069.0,
+                    "ordersCount": 114
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 74586.0,
+                    "ordersCount": 158
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 5495.0,
+                    "ordersCount": 6
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 9936.0,
+                    "ordersCount": 24
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 7157.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 518.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 488.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1683.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "6ae7164591c6a7cc11eda300955f3d4f",
+            "sales": 238526.0,
+            "ordersCount": 242,
+            "salesBreakdown": [
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 134800.0,
+                    "ordersCount": 85
+                },
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 11878.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 43640.0,
+                    "ordersCount": 70
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 2156.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Online",
+                    "sales": 42712.0,
+                    "ordersCount": 74
+                },
+                {
+                    "orderSource": "Kiosk",
+                    "salesChannel": "Dine-in",
+                    "paymentMethod": "Cash",
+                    "sales": 1801.0,
+                    "ordersCount": 5
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 1539.0,
+                    "ordersCount": 1
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 0.0,
+                    "ordersCount": 1
+                }
+            ]
+        },
+        {
+            "unitId": "6ae7164591c6a7dc11eda303a004d80a",
+            "sales": 378136.0,
+            "ordersCount": 316,
+            "salesBreakdown": [
+                {
+                    "orderSource": "Website",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 14341.0,
+                    "ordersCount": 10
+                },
+                {
+                    "orderSource": "MobileApp",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Online",
+                    "sales": 359850.0,
+                    "ordersCount": 303
+                },
+                {
+                    "orderSource": "CallCenter",
+                    "salesChannel": "Delivery",
+                    "paymentMethod": "Cash",
+                    "sales": 3945.0,
+                    "ordersCount": 3
+                }
+            ]
+        }
+    ]
+}
